@@ -1,7 +1,8 @@
 
 import './App.css';
 import "./styles.css";
-import Avatars from './Avatars';
+import Avatars from './component/Avatars';
+
 
 export default function App() {
   return (

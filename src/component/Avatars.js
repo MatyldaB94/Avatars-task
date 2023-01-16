@@ -1,28 +1,8 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-
-const StyledLoading = styled.p`
-font-size: 50px;
-width: 30px;
-`
-const StyledAvatars = styled.img`
-width: 30rem;
-height: 30rem;
-`
-const StyledButton = styled.button`
-width: 100px;
-height: 30px;
-margin: 20px 20px;
-border: 2px
-border-radius: 5px;
- &:hover,
-  &:focus {
-    color: blue;
-  }
-  &:active {
-    color: red;
-  }
-`
+import StyledLoading from "./StyledLoading";
+import StyledAvatars from "./StyledAvatars";
+import StyledButton from "./StyledButton";
 
 const Avatars = () => {
     const [avatars, setAvatars] = useState([]);
