@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
-import styled from "styled-components";
 import StyledLoading from "./StyledLoading";
 import StyledAvatars from "./StyledAvatars";
 import StyledButton from "./StyledButton";
+import styled from "styled-components";
+
 
 const Avatars = () => {
     const [avatars, setAvatars] = useState([]);
