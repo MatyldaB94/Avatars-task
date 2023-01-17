@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Avatars-task/static/css/main.073c9b0a.css",
+    "main.js": "/Avatars-task/static/js/main.2617579f.js",
+    "static/js/787.6b99df77.chunk.js": "/Avatars-task/static/js/787.6b99df77.chunk.js",
+    "index.html": "/Avatars-task/index.html",
+    "main.073c9b0a.css.map": "/Avatars-task/static/css/main.073c9b0a.css.map",
+    "main.2617579f.js.map": "/Avatars-task/static/js/main.2617579f.js.map",
+    "787.6b99df77.chunk.js.map": "/Avatars-task/static/js/787.6b99df77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2617579f.js"
+  ]
+}
